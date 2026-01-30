@@ -1,2 +1,2 @@
 # Stepper-Car
-Old code, simple stepper car
+Arduino code for stepper car
